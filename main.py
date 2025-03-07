@@ -6,7 +6,7 @@ from fake_useragent import UserAgent
 
 connections_per_thread = 50000000000000000
 num_threads = 50000000000000000
-url = "http://ynet.co.il/"
+url = "https://www.golantelecom.co.il/"
 
 referers = [
     "https://chatgpt.com"
