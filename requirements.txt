@@ -1,2 +1,4 @@
+cloudscraper
 requests
-fake_useragent
+fake-useragent
+httpx[http2]
