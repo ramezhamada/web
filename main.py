@@ -6,9 +6,10 @@ from fake_useragent import UserAgent
 
 connections_per_thread = 50000000000000000
 num_threads = 50000000000000000
-url = "http://104.21.64.1/"
+url = "https://my.gov.ir/"
 
 referers = [
+    "https://my.gov.ir/"
     "https://darkwebinformer.com/"
     "http://glz.co.il/"
     "https://www.idf.il/"
