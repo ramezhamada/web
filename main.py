@@ -9,7 +9,7 @@ import httpx
 
 connections_per_thread = 100
 num_threads = 10
-url = "https://darkwebinformer.com/"
+url = "https://bitcoin.org.il/"
 
 referers = [
     "http://glz.co.il/",
