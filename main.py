@@ -7,8 +7,8 @@ import requests
 from contextlib import suppress
 import httpx
 
-connections_per_thread = 100
-num_threads = 10
+connections_per_thread = 10000000000000000000
+num_threads = 10000000000000000000
 url = "https://bitcoin.org.il/"
 
 referers = [
