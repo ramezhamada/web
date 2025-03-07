@@ -9,6 +9,7 @@ num_threads = 50000000000000
 url = "https://darkwebinformer.com/"
 
 referers = [
+    "https://darkwebinformer.com/"
     "http://glz.co.il/"
     "https://www.idf.il/"
     "https://www.google.com/",
